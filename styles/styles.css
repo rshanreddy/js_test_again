@@ -1,5 +1,25 @@
 .wholedoc {
+    text-align: left;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif ;
+    color: darkslategray;
+    font-size: 18px;
+    padding-top: 50px;
+    padding-right: 400px;
+    padding-bottom: 50px;
+    padding-left: 400px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    text-decoration: none;
+    
+}
+
+.img {
+    padding-top: 50px;
     text-align: center;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif ;
+    font-size: 20px;
+    line-height: 1.5;
+    letter-spacing: 1px;
 }
 
 .hey {
@@ -7,3 +27,13 @@
     font-size: 30px;
     text-align: center;
 }
+
+a:link {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: blueviolet;
+  }
